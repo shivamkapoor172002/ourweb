@@ -1,6 +1,3 @@
-"""
-URL configuration for web application.
-"""
 from django.urls import path
 from . import views
 
